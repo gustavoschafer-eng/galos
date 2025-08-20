@@ -1,11 +1,11 @@
 body{
     background-color: black;
-    color: rgb(125, 5, 5);
+    color: rgb(212, 212, 212);
     margin: 0px;
 }
 
 header{
-    border-bottom: inset 3px rgb(231, 236, 93);
+    border-bottom: inset 3px rgb(19, 107, 240);
     padding: 15px;
     font-size: 30px;
     color: rgb(240, 207, 16)
